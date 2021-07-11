@@ -1,0 +1,9 @@
+{
+	"name": "adf-dp203-jg",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f207dab3-1f07-43d9-818d-172fa255045b",
+		"tenantId": "63aa56c0-486a-4891-a6bd-76388ac4b608"
+	}
+}
